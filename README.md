@@ -36,3 +36,9 @@ I have built a simple recommendation engine just using jupyternotebook and strea
 
 But i would further use some of my approaches like arranging all the data set into graphs and using the algorithm of finding nearest neighbour.
 Also implementing various search algorithms and see thier accuracy and time of execution on different range of data sets.
+
+# What about collaberative filtering?
+
+This method combined with content filtering is actually most used by various streaming platforms nowadays.
+In this type of recommendation system, all the close connected users are searched and movie is recommended based on what the other similar users like.
+This more efficient way of reccomendation as it combines interest of people very similar to you to reccomend the movie.
