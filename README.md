@@ -17,18 +17,22 @@ There can be two types of recommendation system
    
    As the movie dataset contains a large number of movies, so we would be left with a large number of movie vectors in 3d space and calculating euclidean distance becomes insignificant and irrelavant due time and space factors. So cosine distance i.e cosine of the angle is taken as a measure of distance.
 
-#Role of search algorithm.
+
+
+  # Role of Search algorithms
 
 While writing a code for recommendation, the use effective search algorithm is very crucial as we need to be fast to scan the various datasets as early as possible and find the similar datasets and recommend it to user faster
 
-#Role of sorting algorithm
+
+
+  # Role of Sorting algorithms
 
 Sorting or matching algorithms play a very crucial role in any recommendation engine.
 
     for example I search for the word orange colour in my recommendation engine, let say google. So, the search algorithms would effectively search for all the links, datas containing orange or containing color or both. So, the sorting algorithms are the one which will reorder and hence find the best matches to the searched word and would recommend it first.
 
 use of effective sorting algos is hence important for faster and smoother experience of the user.
-As a beginner, I feel quick sort is an effective algorithm as for its average time complexity and more efficiency when we have a quite large data.
+As a beginner, I feel *quick sort* is an effective algorithm as for its average time complexity and more efficiency when we have a quite large data.
 
 # Any other approach
 
