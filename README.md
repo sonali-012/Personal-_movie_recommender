@@ -3,7 +3,7 @@ I have build a movie recommender engine using python
 
 There can be two types of recommendation system
 
-       1)content based filtering(done by me)
+       1)content based filtering(which I have implemnted in this project)
        
        2)collaberative filtering(more efficient)
        
