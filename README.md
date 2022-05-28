@@ -1,4 +1,4 @@
-# Personal-_movie_recommender
+# Movie_recommender_documentation
 I have build a movie recommender engine using python
 
 There can be two types of recommendation system
