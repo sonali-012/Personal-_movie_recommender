@@ -7,7 +7,8 @@ There can be two types of recommendation system
        
        2)collaberative filtering(more efficient)
        
-   In content based filtering the suggestions are based on what all types of movies the user watches and which movies are most similar to what the user generally watches.
+   In content based filtering the suggestions are based on what all types of movies the user watches and which movies are most similar to what the user generally watches.Content-based approaches attempt to build a user profile to predict ratings on unseen items.Successful content-based methods utilize tags and keywords. In the I measured the utility of content-based filtering  by using heuristic functions, i.e the cosine similarity metric.
+
        
   In my project I have implemented *content based filtering* using co-sine function similarity.
   
